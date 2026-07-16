@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00. Dashboard/23. Catálogo Maestro de Libros.md",
+                "file": "00. Dashboard/01. Manual de Operación.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "23. Catálogo Maestro de Libros"
+              "title": "01. Manual de Operación"
             }
           }
         ],
@@ -200,26 +200,30 @@
   },
   "active": "ac66082a1e697e00",
   "lastOpenFiles": [
+    "00. Dashboard/Notas/27. Plantilla Nota de Lectura.md",
+    "00. Dashboard/27. Plantilla Nota de Lectura.md",
+    "30. Base de Conocimiento/Notas de Lectura",
+    "00. Dashboard/26. Registro de Aprendizaje.md",
+    "00. Dashboard/26. Registro de Aprendizaje 1.md",
+    "00. Dashboard/01. Manual de Operación.md",
+    "00. Dashboard/Diario/2026-07-16.md",
+    "00. Dashboard/00. Inicio.md",
+    "00. Dashboard/01. Propósito.md",
+    "00. Dashboard/23. Catálogo Maestro de Libros.md",
     "99. Recursos/Guías",
     "20. Proyectos Intelectuales/Inglés/00. Plan de Estudio.md",
     "20. Proyectos Intelectuales/Inglés",
     "40. Biblioteca Digital/Guías/EspeakEnglish_Transcripción_Curso.pdf",
     "40. Biblioteca Digital/Guías/EspeakEnglish_Cuaderno_Ejercicios.pdf",
-    "00. Dashboard/00. Inicio.md",
     "40. Biblioteca Digital/Libros/Marco Aurelio-Meditaciones.pdf",
     "📖 Meditaciones - Marco Aurelio.md",
-    "00. Dashboard/Diario/2026-07-15.md",
     "00. Dashboard/Notas",
     "Estoicismo.md",
-    "00. Dashboard/23. Catálogo Maestro de Libros.md",
     "00. Dashboard/Diario",
     "40. Biblioteca Digital/Libros/EINSTEIN - SU VIDA Y SU UNIVERSO - WALTER ISAACSON.pdf",
     "40. Biblioteca Digital/Libros/the-everything-store-jeff-bezos-and-the-age-of-amazon-Brad Stone.pdf",
-    "40. Biblioteca Digital/Libros/Benjamin-Franklin-Autobiografia.pdf",
-    "40. Biblioteca Digital/Libros/Leonardo-da-Vinci-GabrielBernal.pdf",
     "00. Dashboard/22. Perfil del Egresado.md",
     "00. Dashboard/15. Libros Leídos.md",
-    "00. Dashboard/26. Registro de Aprendizaje.md",
     "00. Dashboard/25. Orden de Lectura.md",
     "00. Dashboard/24. Rastreador de Biblioteca.md",
     "00. Dashboard/21. Currículum Maestro.md",
@@ -231,10 +235,6 @@
     "02. Filosofía/Competencias.md",
     "02. Filosofía/Roadmap.md",
     "02. Filosofía/README.md",
-    "01. Ingeniería/Glosario.md",
-    "01. Ingeniería/Tecnologías.md",
-    "01. Ingeniería/Cursos.md",
-    "01. Ingeniería/Libros.md",
-    "01. Ingeniería/Autores.md"
+    "01. Ingeniería/Glosario.md"
   ]
 }
