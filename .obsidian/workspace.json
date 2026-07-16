@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00. Dashboard/00. Inicio.md",
+                "file": "00. Dashboard/23. Catálogo Maestro de Libros.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00. Inicio"
+              "title": "23. Catálogo Maestro de Libros"
             }
           }
         ],
@@ -200,8 +200,13 @@
   },
   "active": "ac66082a1e697e00",
   "lastOpenFiles": [
-    "40. Biblioteca Digital/Libros/Marco Aurelio-Meditaciones.pdf",
+    "99. Recursos/Guías",
+    "20. Proyectos Intelectuales/Inglés/00. Plan de Estudio.md",
+    "20. Proyectos Intelectuales/Inglés",
+    "40. Biblioteca Digital/Guías/EspeakEnglish_Transcripción_Curso.pdf",
+    "40. Biblioteca Digital/Guías/EspeakEnglish_Cuaderno_Ejercicios.pdf",
     "00. Dashboard/00. Inicio.md",
+    "40. Biblioteca Digital/Libros/Marco Aurelio-Meditaciones.pdf",
     "📖 Meditaciones - Marco Aurelio.md",
     "00. Dashboard/Diario/2026-07-15.md",
     "00. Dashboard/Notas",
@@ -212,9 +217,6 @@
     "40. Biblioteca Digital/Libros/the-everything-store-jeff-bezos-and-the-age-of-amazon-Brad Stone.pdf",
     "40. Biblioteca Digital/Libros/Benjamin-Franklin-Autobiografia.pdf",
     "40. Biblioteca Digital/Libros/Leonardo-da-Vinci-GabrielBernal.pdf",
-    "40. Biblioteca Digital/Libros/Steve Jobs.pdf",
-    "40. Biblioteca Digital/Libros/Una Breve Historia del Tiempo-Stephen Hawking.pdf",
-    "40. Biblioteca Digital/Libros/Cosmos-Carl Sagan.pdf",
     "00. Dashboard/22. Perfil del Egresado.md",
     "00. Dashboard/15. Libros Leídos.md",
     "00. Dashboard/26. Registro de Aprendizaje.md",
@@ -233,7 +235,6 @@
     "01. Ingeniería/Tecnologías.md",
     "01. Ingeniería/Cursos.md",
     "01. Ingeniería/Libros.md",
-    "01. Ingeniería/Autores.md",
-    "01. Ingeniería/Grandes Preguntas.md"
+    "01. Ingeniería/Autores.md"
   ]
 }
